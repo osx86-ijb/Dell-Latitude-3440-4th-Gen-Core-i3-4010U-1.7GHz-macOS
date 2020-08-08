@@ -3,8 +3,8 @@ OpenCore EFI for Dell Latitude 3440 4th Gen Core i3-4010U 1.7GHz (Tested on Moja
 
 Everything is working minus physical trackpad left / right buttons (tap works, etcetera), and VGA output.
 
-<img src=“Screenshots/Screenshot_01.png">
-                                        
+<img src="https://raw.githubusercontent.com/osx86-ijb/Dell-Latitude-3440-4th-Gen-Core-i3-4010U-1.7GHz-OpenCore-EFI-Catalina/master/Screenshots/Screenshot_01.png"/>
+
 <img src=“Screenshots/Screenshot_02.png”/>
 
 <img src=“Screenshots/Screenshot_03.png”/>
