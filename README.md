@@ -1,7 +1,12 @@
-# Dell-Latitude-3440-4th-Gen-Core-i3-4010U-1.7GHz
+# Dell Latitude 3440 4th Gen Core i3 4010U 1.7GHz OpenCore EFI files needed to boot macOS Mojave or Catalina
 OpenCore EFI for Dell Latitude 3440 4th Gen Core i3-4010U 1.7GHz (Tested on Mojave/Catalina)
 
-Everything is working minus physical trackpad left / right buttons (tapping works though, as Trackpad Prefs are present in System Preferences), and VGA output.
+## DISCLAIMER
+
+THIS INFORMATION/RESEARCH HAS BEEN DONE AND SHARED PURELY FOR EXPERIMENTAL AND RESEARCH PURPOSES, AND IS IN NO MAY MEANT TO PROMOTE CIRCUMVENTING OF ANYTHING THAT IS SOMEONE ELSE'S CORPORATE PRIVATE PROPERTY. THE INFORMATION LISTED HERE IS PURELY FOR EDUCATIONAL PURPOSES AND SHOULD YOU CHOOSE TO UTILIZE IT IN ANY WAY, I AM IN NO WAY RESPONSIBLE FOR ANY INJUNCTIONS/PROBLEMS THAT MAY OR MAY NOT ARISE AND/OR BE BROUGHT AGAINST ANOTHER FOR THEIR CHOOSING TO HAVE DONE SO.
+
+
+Everything (for the most part) is working minus physical trackpad left / right buttons (tapping works though, as Trackpad Prefs are present in System Preferences), and VGA output.
 
 ![Desktop Screenshot - About This Mac](Screenshots/Screenshot_01.png?raw=true "Desktop Screenshot - About This Mac")
 
