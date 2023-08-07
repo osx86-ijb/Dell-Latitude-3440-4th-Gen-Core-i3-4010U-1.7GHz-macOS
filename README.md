@@ -1,7 +1,7 @@
 <p align="center">
 
-# Dell Latitude 3440 4th Gen Core i3 4010U 1.7GHz OpenCore EFI files needed to boot macOS Mojave or Catalina
-OpenCore EFI for Dell Latitude 3440 4th Gen Core i3-4010U 1.7GHz (Tested on Mojave/Catalina)
+# Dell Latitude 3440 4th Gen Core i3 4010U 1.7GHz OpenCore EFI files needed to boot macOS
+OpenCore EFI for Dell Latitude 3440 4th Gen Core i3-4010U 1.7GHz (Tested on Mojave/Catalina/Big Sur)
 
 ![Dell Latitude 3440 Picture](https://www.tech-bazaar.com/wp-content/uploads/2019/03/Dell-Latitude-3440-Core-i5-4210u.jpg)
 
