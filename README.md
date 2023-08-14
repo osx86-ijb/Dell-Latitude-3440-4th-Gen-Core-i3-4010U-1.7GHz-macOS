@@ -1,7 +1,7 @@
 <p align="center">
 
 # Dell Latitude 3440 4th Gen Core i3 4010U 1.7GHz OpenCore EFI files needed to boot macOS
-OpenCore EFI for Dell Latitude 3440 4th Gen Core i3-4010U 1.7GHz (Tested on Mojave/Catalina/Big Sur)
+OpenCore EFI for Dell Latitude 3440 4th Gen Core i3-4010U 1.7GHz (Tested on Mojave/Catalina/Big Sur/Monterey/Ventura/Sonoma)
 
 ![Dell Latitude 3440 Picture](https://www.tech-bazaar.com/wp-content/uploads/2019/03/Dell-Latitude-3440-Core-i5-4210u.jpg)
 
@@ -12,9 +12,19 @@ THIS INFORMATION/RESEARCH HAS BEEN DONE AND SHARED PURELY FOR EXPERIMENTAL AND R
 
 ## NOTE
 
-DO NOTE THAT THIS IS A WORK IN PROGRESS UNFINISHED AS OF YET EFI SOLUTION TO BOOT MACOS ON THIS HARDWARE.
+#### DO NOTE THAT THIS REPOSITORY HAS MULTIPLE BRANCHES USED TO SUPPORT EACH OF THE FOLLOWING VERSIONS OF MACOS:
+- Mojave
+- Catalina
+- Big Sur
+- Monterey
+- Ventura
+- Sonoma
 
-Everything (for the most part) is working minus physical trackpad left / right buttons (tap to click works though, as Trackpad Prefs are present in System Preferences, and you can also turn on dragging via Trackpad Options in Accessbility), Sleep/Wake (as I've applied the proper AML patching and ran SSDTTime as well, but can't seem to get it not to instant wake still?), and VGA output (which never had support in macOS).
+#### THESE ARE PUT IN PLACE FOR USE WITH EACH VERSION OF MACOS AND SET UP ACCORDINGLY.
+#### MINKERNEL AND MAXKERNEL ARE IN USE FOR KEXTS IN CONFIG.PLIST TO ENSURE COMPATABILITY AND AS A FAILSAFE MEASURE FOR WHEN USERS DECIDE TO ATTEMPT TO MISMATCH BRANCHES WITH THEIR CHOSEN VERSIONS OF THE OS.
+
+### Everything is working except for:
+- Sleep instant wake / not sleeping properly
 
 ![Desktop Screenshot - About This Mac](Screenshots/01.png?raw=true "Desktop Screenshot - About This Mac")
 
