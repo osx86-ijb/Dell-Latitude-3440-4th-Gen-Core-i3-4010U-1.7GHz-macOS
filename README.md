@@ -1,9 +1,14 @@
-<p align="center">
+<h1 align="center">Dell Latitude 3440 4th Gen Core i3 4010U 1.7GHz OpenCore EFI files needed to boot macOS</h1>
+<p align="center">OpenCore EFI for Dell Latitude 3440 4th Gen Core i3-4010U 1.7GHz</p> 
+<p align="center">(Tested on Mojave/Catalina/Big Sur/Monterey/Ventura/Sonoma)</p>
 
-# Dell Latitude 3440 4th Gen Core i3 4010U 1.7GHz OpenCore EFI files needed to boot macOS
-OpenCore EFI for Dell Latitude 3440 4th Gen Core i3-4010U 1.7GHz (Tested on Mojave/Catalina/Big Sur)
+<div align="center">
 
-![Dell Latitude 3440 Picture](https://www.tech-bazaar.com/wp-content/uploads/2019/03/Dell-Latitude-3440-Core-i5-4210u.jpg)
+![Dell Latitude 3440 4th Gen Core i3 4010U](https://github.com/osx86-ijb/Dell-Latitude-3440-4th-Gen-Core-i3-4010U-1.7GHz-macOS/assets/67184728/661d2376-9f81-4ffb-a431-f28837d0556c)
+
+<img width="1680" alt="Screenshot 2023-09-01 at 11 08 58 AM" src="https://github.com/osx86-ijb/Dell-Latitude-3440-4th-Gen-Core-i3-4010U-1.7GHz-OpenCore-EFI/assets/67184728/3f99bc41-ac55-442e-a134-6f369bf0cb3c">
+
+</div>
 
 ## DISCLAIMER
 
@@ -12,32 +17,17 @@ THIS INFORMATION/RESEARCH HAS BEEN DONE AND SHARED PURELY FOR EXPERIMENTAL AND R
 
 ## NOTE
 
-DO NOTE THAT THIS IS A WORK IN PROGRESS UNFINISHED AS OF YET EFI SOLUTION TO BOOT MACOS ON THIS HARDWARE.
+#### DO NOTE THAT THIS REPOSITORY HAS MULTIPLE BRANCHES USED TO SUPPORT EACH OF THE FOLLOWING VERSIONS OF MACOS:
+- Mojave
+- Catalina
+- Big Sur
+- Monterey
+- Ventura
+- Sonoma
 
-Everything (for the most part) is working minus physical trackpad left / right buttons (tap to click works though, as Trackpad Prefs are present in System Preferences, and you can also turn on dragging via Trackpad Options in Accessbility), Sleep/Wake (as I've applied the proper AML patching and ran SSDTTime as well, but can't seem to get it not to instant wake still?), and VGA output (which never had support in macOS).
+#### THESE ARE PUT IN PLACE FOR USE WITH EACH VERSION OF MACOS AND SET UP ACCORDINGLY.
+#### MINKERNEL AND MAXKERNEL ARE IN USE FOR KEXTS IN CONFIG.PLIST TO ENSURE COMPATABILITY AND AS A FAILSAFE MEASURE FOR WHEN USERS DECIDE TO ATTEMPT TO MISMATCH BRANCHES WITH THEIR CHOSEN VERSIONS OF THE OS.
 
-![Desktop Screenshot - About This Mac](Screenshots/01.png?raw=true "Desktop Screenshot - About This Mac")
-
-![Hackintool - PCIe](Screenshots/02.png?raw=true "Hackintool - PCIe")
-
-![Hackintool - Peripherals](Screenshots/03.png?raw=true "Hackintool - Peripherals")
-
-![System Information - Hardware Overview](Screenshots/04.png?raw=true "System Information - Hardware Overview")
-
-![System Information - Audio](Screenshots/05.png?raw=true "System Information - Audio")
-
-![System Information - Bluetooth](Screenshots/06.png?raw=true "System Information - Bluetooth")
-
-![System Information - Camera](Screenshots/07.png?raw=true "System Information - Camera")
-
-![System Information - Ethernet Cards](Screenshots/08.png?raw=true "System Information - Ethernet Cards")
-
-![System Information - Graphics/Displays](Screenshots/09.png?raw=true "System Information - Graphics/Displays")
-
-![System Information - PCI](Screenshots/10.png?raw=true "System Information - PCI")
-
-![System Information - Power](Screenshots/11.png?raw=true "System Information - Power")
-
-![System Information - USB](Screenshots/12.png?raw=true "System Information - USB")
-
-![System Information - Wi-Fi](Screenshots/13.png?raw=true "System Information - Wi-Fi")
+### Everything is working except for:
+- Sleep instant wake / not sleeping properly
+- VGA (As this has never been supported, and unless you write it from scratch yourself, it never will be)
