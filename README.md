@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Dell Latitude 3440 Picture](https://www.tech-bazaar.com/wp-content/uploads/2019/03/Dell-Latitude-3440-Core-i5-4210u.jpg)
+![Dell Latitude 3440 4th Gen Core i3 4010U](https://github.com/osx86-ijb/Dell-Latitude-3440-4th-Gen-Core-i3-4010U-1.7GHz-macOS/assets/67184728/78837259-f085-48ea-aa0b-46aaa9cd5ab8)
 
 <img width="1680" alt="Screenshot 2023-09-01 at 11 08 58 AM" src="https://github.com/osx86-ijb/Dell-Latitude-3440-4th-Gen-Core-i3-4010U-1.7GHz-OpenCore-EFI/assets/67184728/3f99bc41-ac55-442e-a134-6f369bf0cb3c">
 
