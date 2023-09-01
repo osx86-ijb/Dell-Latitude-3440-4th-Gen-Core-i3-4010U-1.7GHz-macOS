@@ -30,3 +30,4 @@ THIS INFORMATION/RESEARCH HAS BEEN DONE AND SHARED PURELY FOR EXPERIMENTAL AND R
 
 ### Everything is working except for:
 - Sleep instant wake / not sleeping properly
+- VGA (As this has never been supported, and unless you write it from scratch yourself, it never will be)
