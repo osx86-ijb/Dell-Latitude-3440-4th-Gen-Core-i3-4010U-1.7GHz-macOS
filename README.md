@@ -1,9 +1,14 @@
-<p align="center">
+<h1 align="center">Dell Latitude 3440 4th Gen Core i3 4010U 1.7GHz OpenCore EFI files needed to boot macOS</h1>
+<p align="center">OpenCore EFI for Dell Latitude 3440 4th Gen Core i3-4010U 1.7GHz</p> 
+<p align="center">(Tested on Mojave/Catalina/Big Sur/Monterey/Ventura/Sonoma)</p>
 
-# Dell Latitude 3440 4th Gen Core i3 4010U 1.7GHz OpenCore EFI files needed to boot macOS
-OpenCore EFI for Dell Latitude 3440 4th Gen Core i3-4010U 1.7GHz (Tested on Mojave/Catalina/Big Sur/Monterey/Ventura/Sonoma)
+<div align="center">
 
-![Dell Latitude 3440 Picture](https://www.tech-bazaar.com/wp-content/uploads/2019/03/Dell-Latitude-3440-Core-i5-4210u.jpg)
+![Dell Latitude 3440 4th Gen Core i3 4010U](https://github.com/osx86-ijb/Dell-Latitude-3440-4th-Gen-Core-i3-4010U-1.7GHz-macOS/assets/67184728/78837259-f085-48ea-aa0b-46aaa9cd5ab8)
+
+![Screen Shot 2023-09-02 at 7 18 24 AM](https://github.com/osx86-ijb/Dell-Latitude-3440-4th-Gen-Core-i3-4010U-1.7GHz-macOS/assets/67184728/8c5a1ef4-a2fa-4a80-8f33-917d6366a528)
+
+</div>
 
 ## DISCLAIMER
 
@@ -25,29 +30,4 @@ THIS INFORMATION/RESEARCH HAS BEEN DONE AND SHARED PURELY FOR EXPERIMENTAL AND R
 
 ### Everything is working except for:
 - Sleep instant wake / not sleeping properly
-
-![Desktop Screenshot - About This Mac](Screenshots/01.png?raw=true "Desktop Screenshot - About This Mac")
-
-![Hackintool - PCIe](Screenshots/02.png?raw=true "Hackintool - PCIe")
-
-![Hackintool - Peripherals](Screenshots/03.png?raw=true "Hackintool - Peripherals")
-
-![System Information - Hardware Overview](Screenshots/04.png?raw=true "System Information - Hardware Overview")
-
-![System Information - Audio](Screenshots/05.png?raw=true "System Information - Audio")
-
-![System Information - Bluetooth](Screenshots/06.png?raw=true "System Information - Bluetooth")
-
-![System Information - Camera](Screenshots/07.png?raw=true "System Information - Camera")
-
-![System Information - Ethernet Cards](Screenshots/08.png?raw=true "System Information - Ethernet Cards")
-
-![System Information - Graphics/Displays](Screenshots/09.png?raw=true "System Information - Graphics/Displays")
-
-![System Information - PCI](Screenshots/10.png?raw=true "System Information - PCI")
-
-![System Information - Power](Screenshots/11.png?raw=true "System Information - Power")
-
-![System Information - USB](Screenshots/12.png?raw=true "System Information - USB")
-
-![System Information - Wi-Fi](Screenshots/13.png?raw=true "System Information - Wi-Fi")
+- VGA (as this has never been supported, and never will be unless you hand key in the support for it yourself)
