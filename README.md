@@ -6,7 +6,7 @@
 
 ![Dell Latitude 3440 4th Gen Core i3 4010U](https://github.com/osx86-ijb/Dell-Latitude-3440-4th-Gen-Core-i3-4010U-1.7GHz-macOS/assets/67184728/78837259-f085-48ea-aa0b-46aaa9cd5ab8)
 
-<img width="1680" alt="Screenshot 2023-09-14 at 7 03 18 PM" src="https://github.com/osx86-ijb/Dell-Latitude-3440-4th-Gen-Core-i3-4010U-1.7GHz-macOS/assets/67184728/e349a4b2-9366-47c0-b849-8ea500243289">
+<img width="1680" alt="Screenshot 2023-09-14 at 7 03 18 PM" src="https://github.com/osx86-ijb/Dell-Latitude-3440-4th-Gen-Core-i3-4010U-1.7GHz-macOS/assets/67184728/d7e22471-256a-472f-9514-6aeecb32433f">
 
 </div>
 
