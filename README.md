@@ -6,7 +6,7 @@
 
 ![Dell Latitude 3440 4th Gen Core i3 4010U](https://github.com/osx86-ijb/Dell-Latitude-3440-4th-Gen-Core-i3-4010U-1.7GHz-macOS/assets/67184728/78837259-f085-48ea-aa0b-46aaa9cd5ab8)
 
-<img width="1680" alt="Screenshot 2023-09-01 at 11 08 58 AM" src="https://github.com/osx86-ijb/Dell-Latitude-3440-4th-Gen-Core-i3-4010U-1.7GHz-OpenCore-EFI/assets/67184728/3f99bc41-ac55-442e-a134-6f369bf0cb3c">
+<img width="1680" alt="Screenshot 2023-09-14 at 7 03 18 PM" src="https://github.com/osx86-ijb/Dell-Latitude-3440-4th-Gen-Core-i3-4010U-1.7GHz-macOS/assets/67184728/e349a4b2-9366-47c0-b849-8ea500243289">
 
 </div>
 
@@ -30,4 +30,4 @@ THIS INFORMATION/RESEARCH HAS BEEN DONE AND SHARED PURELY FOR EXPERIMENTAL AND R
 
 ### Everything is working except for:
 - Sleep instant wake / not sleeping properly
-- VGA (As this has never been supported, and unless you write it from scratch yourself, it never will be)
+- VGA (as this has never been supported, and never will be unless you hand key in the support for it yourself)
